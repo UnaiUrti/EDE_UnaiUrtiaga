@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"paquete","c":"Si","l":"nombreMetodo(int, boolean)","url":"nombreMetodo(int,boolean)"},{"p":"paquete","c":"Si","l":"Si()","url":"%3Cinit%3E()"}]
